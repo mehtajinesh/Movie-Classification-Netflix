@@ -136,3 +136,8 @@ data
 
 # macOS
 .DS_Store
+
+#model
+finetuned_BERT_epoch_3.model
+finetuned_BERT_epoch_2.model
+finetuned_BERT_epoch_1.model
