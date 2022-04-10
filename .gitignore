@@ -130,3 +130,9 @@ dmypy.json
 
 # dataset
 data
+
+# vs code
+.vscode
+
+# macOS
+.DS_Store
