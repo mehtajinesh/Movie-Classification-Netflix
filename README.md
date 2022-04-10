@@ -14,4 +14,3 @@ For this project we consider the Netflix Title Dataset present here:[Netflix Dat
 ## Built with Tools
 
 1. Python 3.8.10 (64-bit)
-2. 
