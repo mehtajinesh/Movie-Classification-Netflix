@@ -16,8 +16,9 @@ For this project we consider the Netflix Title Dataset present here:[Netflix Dat
 6. Form clusters using K-Means (mini-batch mode)
 7. Updated DataFrame with cluster labels
 8. Preprocess text description
-9. Use LSTM Model for Classification
-10. Evaluate the Model.
+9. Use BERT Model - Embeddings
+10. Use Bi-LSTM Model for Classification
+11. Evaluate the Model.
 
 ## Built with Tools
 
